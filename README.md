@@ -1,4 +1,17 @@
+# Hello!
 
+
+My name is Anna. You are in my profile on github, where I draw up my portfolio, which I started compiling while studying at Innopolis University on the course "Fundamentals of Software Testing".
+
+Here are some of the results of my work in the form of test artifacts (Ru, Eng) on various projects (the Bookmate mobile application, the Student Files web application, GregOlsen.PhotoStudio", "Building Champions Client Portal" and "AquaDucks").
+
+In addition to working on freelance and test projects, I received 6 months of relevant experience at [Tot Systems](https://totsystems.ru/), in which she was engaged in testing web applications.
+
+For all questions and suggestions, write to my [Email](annsamoi823@gmail.com ) or in [Telegram](https://t.me/annsamoi ).
+
+
+I hope for further cooperation!
+____
 # Доброго времени суток!
 
 
